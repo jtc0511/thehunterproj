@@ -1,0 +1,28 @@
+/* styles.css */
+img {
+    display: block;
+    height: 200px;
+    width: auto;
+}
+.toppage {
+    display: flex;
+    
+}
+.tphead {
+    margin: 0px 10px;
+   
+    
+}
+.botpage {
+    display: flex;
+    flex-basis: 1;
+    
+}
+.btpage {
+    flex-grow: 3;
+    flex-shrink: 1;
+}
+.bpage {
+    flex-grow: 1;
+    flex-shrink: 3;
+}
